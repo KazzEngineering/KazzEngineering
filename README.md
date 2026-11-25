@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Kazz 👋</h1>
 
 <h3 align="center">
-  Software Development · Quantitative Finance · Engineering
+  Software Engineering · Quantitative Finance · Applied Mathematics
 </h3>
 
 <p align="center">
@@ -22,7 +22,7 @@
 
 ## Technical Skills
 
-### Programming Languages
+### Languages
 
 ![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css)
 
