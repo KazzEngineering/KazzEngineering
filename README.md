@@ -46,11 +46,13 @@
 
 ### Computer Engineering
 
-- Data Structures & Algorithms
-- Operating Systems & Multithreading
-- Computer Networks & TCP/IP
-- Embedded Systems
-- Cryptography & Network Security
+- **Algorithms & Data Structures:** Algorithmic Complexity, Recursion, Sorting, Searching, Trees, Graphs, Hash Tables.
+- **Systems Programming:** Memory Management, Pointers, Operating Systems, Multithreading, Concurrency & Synchronisation.
+- **Computer Networks:** TCP/IP, Network Protocols, Routing, Socket Programming, Client-Server Architecture.
+- **Cybersecurity & Cryptography:** AES, RSA, ECC, Hashing, HMAC, HSM, Authentication & API Security.
+- **Embedded Systems:** CPU Architecture, Microcontrollers, Assembly, Interrupts & Real-Time Systems.
+- **Software Design & Quality:** OOP, Modular Architecture, Design Patterns, REST APIs, Testing, Debugging, Automation & Performance Optimisation.
+
 
 ### Quantitative Development
 
