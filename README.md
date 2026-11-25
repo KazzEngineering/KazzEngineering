@@ -36,7 +36,7 @@
 
 ### Databases
 
-![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,firebase,supabase)
+![Databases](https://skillicons.dev/icons?i=sqlite,mongodb,firebase,supabase)
 
 ### Infrastructure & Deployment
 
