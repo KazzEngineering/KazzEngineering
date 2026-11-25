@@ -14,7 +14,7 @@
 
 ## About Me
 
-- Developing software for over 8 years.
+- Developing software since 2018.
 - Building mobile applications, web platforms and SaaS products.
 - Passionate about quantitative finance and algorithmic trading.
 - Interested in computer systems, automation and mathematical modelling.
@@ -40,11 +40,11 @@
 
 ### Infrastructure & Deployment
 
-![Infrastructure](https://skillicons.dev/icons?i=linux,vercel)
+![Infrastructure](https://skillicons.dev/icons?i=linux,git,github,vercel)
 
 `Linux Administration` · `VPS` · `Server Deployment`
 
-### Computer Engineering
+### Computer Science & Engineering
 
 - **Algorithms & Data Structures:** Algorithmic Complexity, Recursion, Sorting, Searching, Trees, Graphs, Hash Tables.
 - **Systems Programming:** Memory Management, Pointers, Operating Systems, Multithreading, Concurrency & Synchronisation.
@@ -60,11 +60,11 @@
 
 `NumPy` · `Pandas` · `Matplotlib` · `MetaTrader 5`
 
-**Areas of Interest**
+**Quantitative Methods & Concepts**
 
-- Quantitative Market Analysis
+- Financial Market Analysis
 - Algorithmic Trading & Backtesting
 - Risk Management
-- Statistics & Probability
+- Statistical Analysis & Probability
 - Mathematical Optimisation
 - Technical Indicators
