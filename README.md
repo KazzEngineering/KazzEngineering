@@ -14,13 +14,13 @@
 
 ## About Me
 
-- Developing software since 2018.
+- Programming since 2018.
 - Building mobile applications, web platforms and SaaS products.
 - Passionate about quantitative finance and algorithmic trading.
 - Interested in computer systems, automation and mathematical modelling.
 - Currently deepening my knowledge of C, C++ and Python.
 
-## Tech Stack
+## Technical Skills
 
 ### Programming Languages
 
