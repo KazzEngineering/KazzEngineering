@@ -44,15 +44,15 @@
 
 `Linux Administration` · `VPS` · `Server Deployment`
 
-### Computer Science & Engineering
+### Computer Science, Mathematics & Engineering
 
 - **Algorithms & Data Structures:** Algorithmic Complexity, Recursion, Sorting, Searching, Trees, Graphs, Hash Tables.
+- **Applied Mathematics:** Linear Algebra, Multivariable Calculus, Differential Equations, Probability & Statistics, Numerical Analysis, Mathematical Optimisation, Markov Chains.
 - **Systems Programming:** Memory Management, Pointers, Operating Systems, Multithreading, Concurrency & Synchronisation.
 - **Computer Networks:** TCP/IP, Network Protocols, Routing, Socket Programming, Client-Server Architecture.
 - **Cybersecurity & Cryptography:** AES, RSA, ECC, Hashing, HMAC, HSM, Authentication & API Security.
 - **Embedded Systems:** CPU Architecture, Microcontrollers, Assembly, Interrupts & Real-Time Systems.
 - **Software Design & Quality:** OOP, Modular Architecture, Design Patterns, REST APIs, Testing, Debugging, Automation & Performance Optimisation.
-
 
 ### Quantitative Development
 
