@@ -20,6 +20,14 @@
 - Interested in computer systems, automation and mathematical modelling.
 - Currently deepening my knowledge of C, C++ and Python.
 
+## Featured Projects
+
+### [QuantLab](https://github.com/KazzEngineering/QuantLab) - `In Development`
+
+A quantitative finance research toolkit for financial market analysis,
+asset comparison, risk metrics and statistical modelling.
+
+**Technologies:** Python · C++ · NumPy · Pandas
 ## Technical Skills
 
 ### Languages
